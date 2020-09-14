@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "edem-textile.com.ua"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Edem-Textile</name>
+    <name>Edem-Textile</name>
 
     <description>
         Интернет-магазин домашнего текстиля «Edem-Textile»
